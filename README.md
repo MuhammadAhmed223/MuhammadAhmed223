@@ -12,14 +12,19 @@
   
     🎨 Sketch-Based Image Retrieval (SBIR)
       My Final Year Project (FYP), developed with my team. This system allows users to search images using hand-drawn sketches.
+      
     🖼 Plant Health Disease Detection System
       A deep learning-powered solution for detecting plant diseases from leaf images, promoting healthier agriculture.
+      
     🚆 Railway Management System
       A comprehensive system for managing railway operations efficiently.
+      
     🌾 Smart Agriculture Recommendation System
       Provides farmers with the best crop and fertilizer recommendations based on soil and weather conditions.
+      
     🖱 WinForm Projects
       Windows-based Marksheet using windows form built with C# and .Net for solution.
+      
     🤖 Multilingual AI Chatbot
       An intelligent customer support chatbot with multilingual capabilities, enabling seamless conversations in multiple languages.
 
